@@ -1,1 +1,1 @@
-# Machine_Learning
+# Machine Learning 스터디
